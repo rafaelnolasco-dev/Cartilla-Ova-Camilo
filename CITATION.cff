@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Si usa esta cartilla, cítela con estos datos."
+type: dataset
+title: "Cartilla para docentes: OVA 1.0 Las aventuras de Camilo"
+abstract: "Cartilla interactiva para docentes que acompaña el objeto virtual de aprendizaje en Scratch «Las aventuras de Camilo: secuenciación y abstracción», diseñado para estudiantes de grados sexto y séptimo del modelo Caminar en Secundaria."
+authors:
+  - family-names: "Peña Ossa"
+    given-names: "J. D."
+    affiliation: "Universidad Tecnológica de Pereira"
+  - family-names: "Nolasco Rojas"
+    given-names: "R. R."
+    affiliation: "Universidad Tecnológica de Pereira"
+contributors:
+  - family-names: "Valencia Villa"
+    given-names: "Michael Stiven"
+    affiliation: "Universidad Tecnológica de Pereira"
+version: "1.0"
+date-released: "2026-12-01"
+license: CC-BY-SA-4.0
+url: "https://SU-USUARIO.github.io/cartilla-ova-camilo/"
+repository-code: "https://github.com/SU-USUARIO/cartilla-ova-camilo"
+# doi: "10.5281/zenodo.XXXXXXX"
+keywords:
+  - pensamiento computacional
+  - secuenciación
+  - abstracción
+  - Scratch
+  - objeto virtual de aprendizaje
+  - Caminar en Secundaria
+  - cartilla para docentes
